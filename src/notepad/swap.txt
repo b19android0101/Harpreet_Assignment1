@@ -1,0 +1,11 @@
+class Swap 
+{
+	int a=10,b=20,temp;
+	public Static void main(String args[])
+	{
+		temp=x;
+		x=y;
+		y=temp;
+		System.out.println("after swapping"+a+b);
+	}
+}
